@@ -1,0 +1,11 @@
+Package: MiniPaquete
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.0.9000
+Authors@R: 
+    person("Josefina", "Urquiza", , "josefina.urquizap@gmail.com", role = c("cre", "aut"),
+           comment = c(ORCID = "0009-0005-8910-2576"))
+Description: What the package does (one paragraph).
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 8.0.0
