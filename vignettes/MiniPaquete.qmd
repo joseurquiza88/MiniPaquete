@@ -1,0 +1,20 @@
+---
+title: "MiniPaquete"
+vignette: >
+  %\VignetteIndexEntry{MiniPaquete}
+  %\VignetteEngine{quarto::html}
+  %\VignetteEncoding{UTF-8}
+knitr:
+  opts_chunk:
+    collapse: true
+    comment: '#>'
+---
+
+```{r}
+#| label: setup
+library(MiniPaquete)
+```
+
+```{r}
+what_time()
+```
