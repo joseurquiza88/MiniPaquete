@@ -9,7 +9,7 @@ License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 8.0.0
-URL: https://github.com/joseurquiza88/MiniPaquete
+URL: https://github.com/joseurquiza88/MiniPaquete, ://joseurquiza88.github.io/MiniPaquete/
 BugReports: https://github.com/joseurquiza88/MiniPaquete/issues
 Imports:
     praise,
