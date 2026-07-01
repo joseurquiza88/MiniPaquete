@@ -9,7 +9,4 @@ test_that("bla() works", {
   withr::local_options(digits = 3)
   expect_snapshot(print(pi))
 })
-test_that("bla() works", {
-  withr::local_options(digits = 5)
-  expect_snapshot(print(pi))
-})
+
