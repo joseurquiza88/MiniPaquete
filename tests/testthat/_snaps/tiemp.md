@@ -13,10 +13,3 @@
     Output
       [1] 3.14
 
----
-
-    Code
-      print(pi)
-    Output
-      [1] 3.1416
-
