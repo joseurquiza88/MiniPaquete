@@ -14,7 +14,3 @@ knitr:
 #| label: setup
 library(MiniPaquete)
 ```
-
-```{r}
-what_time()
-```
