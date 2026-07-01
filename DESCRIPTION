@@ -11,13 +11,13 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 8.0.0
 URL: https://github.com/joseurquiza88/MiniPaquete
 BugReports: https://github.com/joseurquiza88/MiniPaquete/issues
-Imports: 
+Imports:
     praise,
-    rlang,
-    withr
-Suggests: 
+    rlang
+Suggests:
     knitr,
     quarto,
-    testthat (>= 3.0.0)
+    testthat (>= 3.0.0),
+    withr
 Config/testthat/edition: 3
 VignetteBuilder: quarto

@@ -13,6 +13,8 @@ knitr:
 ```{r}
 #| label: setup
 library(MiniPaquete)
-#Puedo explicar y mostrar que hace el paquete
+```
+```{r}
+Puedo explicar y mostrar que hace el paquete
 what_time()
 ```
