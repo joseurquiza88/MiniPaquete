@@ -5,6 +5,7 @@
 
 <!-- badges: start -->
 
+[![R-CMD-check](https://github.com/joseurquiza88/MiniPaquete/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/joseurquiza88/MiniPaquete/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 El objetivo de MiniPaquete es aprender paso a paso como contruir un
@@ -28,7 +29,7 @@ This is a basic example which shows you how to solve a common problem:
 library(MiniPaquete)
 ## basic example code
 what_time()
-#> [1] "Hah! Ahora son las 11:21!"
+#> [1] "Oh! Ahora son las 15:19!"
 ```
 
 What is special about using `README.Rmd` instead of just `README.md`?

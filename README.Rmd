@@ -16,6 +16,7 @@ knitr::opts_chunk$set(
 # MiniPaquete
 
 <!-- badges: start -->
+[![R-CMD-check](https://github.com/joseurquiza88/MiniPaquete/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/joseurquiza88/MiniPaquete/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 El objetivo de MiniPaquete es aprender paso a paso como contruir un paquete en .R
