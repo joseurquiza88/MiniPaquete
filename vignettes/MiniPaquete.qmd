@@ -1,0 +1,18 @@
+---
+title: "MiniPaquete"
+vignette: >
+  %\VignetteIndexEntry{MiniPaquete}
+  %\VignetteEngine{quarto::html}
+  %\VignetteEncoding{UTF-8}
+knitr:
+  opts_chunk:
+    collapse: true
+    comment: '#>'
+---
+
+```{r}
+#| label: setup
+library(MiniPaquete)
+#Puedo explicar y mostrar que hace el paquete
+what_time()
+```
